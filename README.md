@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, JS, PJS, HTML, and CSS.
 - 🌱 I’m currently learning about RegEx
 - 💞️ I’m looking to collaborate on Machine Learning.
-- 📫 How to reach me: mention me!
+- 📫 How to reach me: mention me, or I'm @TheOriginalLoki on Khan Academy
 
 <!---
 B1Fr0st/B1Fr0st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
