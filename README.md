@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1Fr0st](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @B1Fr0st
 - 👀 I’m interested in Python, JS, PJS, HTML, and CSS.
 - 🌱 I’m currently learning about RegEx
