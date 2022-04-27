@@ -5,7 +5,10 @@
 - 👀 I’m interested in Python, JS, PJS, HTML, and CSS.
 - 🌱 I’m currently learning about hashing and salting passwords
 - 💞️ I’m looking to collaborate on Machine Learning.
-- 📫 How to reach me: mention me, or I'm @TheOriginalLoki on Khan Academy
+- 📫 How to reach me: mention me, or:
+- @TheOriginalLoki on Khan Academy
+- @BiFr0st on Steam
+- @California IRL
 
 <!---
 B1Fr0st/B1Fr0st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
