@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1Fr0st)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1Fr0st)
 
 
 - 👋 Hi, I’m @B1Fr0st
