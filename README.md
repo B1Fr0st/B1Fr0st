@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @B1Fr0st
 - 👀 I’m interested in Python, JS, PJS, HTML, and CSS.
-- 🌱 I’m currently learning about RegEx
+- 🌱 I’m currently learning about hashing and salting passwords
 - 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 How to reach me: mention me, or I'm @TheOriginalLoki on Khan Academy
 
