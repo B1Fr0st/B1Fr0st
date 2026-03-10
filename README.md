@@ -5,7 +5,7 @@ use basev2::prelude::*;
 
 #[basev2::main]
 fn main() {
-  basev2:opinionated_build("deadlock.exe")
+  basev2::opinionated_build("deadlock.exe")
     .with_logic(esp)
     .with_logic(aimbot)
     .with_logic(scripting)
